@@ -1,0 +1,13 @@
+{
+  "appId": "com.test.h5shell",
+  "appName": "H5TestShell",
+  "webDir": "dist",
+  "server": {
+    "url": "http://192.168.0.3:5173",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "webContentsDebuggingEnabled": true
+  }
+}

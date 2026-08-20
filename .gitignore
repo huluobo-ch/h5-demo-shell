@@ -1,0 +1,16 @@
+# 依赖包
+node_modules/
+
+# Capacitor 本地生成
+android/
+dist/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
